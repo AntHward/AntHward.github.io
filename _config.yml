@@ -1,3 +1,8 @@
 title: [Anthony introduction site]
 description: [This site was made to introduce myself and display my portfolio]
 
+---
+---
+
+@import "{{ site.theme }}";
+
